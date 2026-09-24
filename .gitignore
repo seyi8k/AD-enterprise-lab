@@ -1,0 +1,7 @@
+*.tmp
+*.log
+
+data/users.csv
+
+*.psd1
+*.psm1
